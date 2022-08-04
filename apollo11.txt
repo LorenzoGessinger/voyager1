@@ -1,0 +1,6 @@
+Fato: homem pisou na Lua
+Primeiro foguete: Apollo11
+Agora as próximas missões são: melhorar as tecnologias da nave, trazer mais segurança
+para a tripulação da nave, e melhorar a infraestrutura de dentro na nave para manter
+mais conforto
+Orbitas Lunares: 30
